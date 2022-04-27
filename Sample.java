@@ -8,5 +8,6 @@ public class Sample
     System.out.println("Hello ......change commit.");
      System.out.println("Hello ......change commit2.");
     System.out.println("Hello ......change******************.");
+    System.out.println("Hello ......change******************.");
   }
 }
