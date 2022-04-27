@@ -6,6 +6,6 @@ public class Sample
     System.out.println("Hello .......");
     System.out.println("Hello .......");
     System.out.println("Hello ......change commit.");
-     System.out.println("Hello ......change commit1.");
+     System.out.println("Hello ......change commit2.");
   }
 }
